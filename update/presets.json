@@ -1,0 +1,22 @@
+{
+    "presets": [
+        {
+            "title": "Rodoom's Presets",
+            "description": "Bring your system to your knees with these presets!",
+            "author": "Rodoom",
+            "source": "https://extravi.dev/1"
+        },
+        {
+            "title": "RobloxTX",
+            "description": "Ray tracing with quality and performance.",
+            "author": "Ax",
+            "source": "https://extravi.dev/2"
+        },
+        {
+            "title": "Ax's Extra Presets",
+            "description": "Pack with many presets, such as TikTokify and OldSk00l!",
+            "author": "Ax",
+            "source": "https://extravi.dev/3"
+        }
+    ]
+}
