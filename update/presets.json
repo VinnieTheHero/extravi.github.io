@@ -1,6 +1,48 @@
 {
     "presets": [
         {
+            "title": "Ziplipp's Colorful World",
+            "description": "Glossy fun! A world of color!",
+            "author": "ryememorize",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/ryememorize/ansel-presets.zip"
+        },
+        {
+            "title": "Drive World Sunset Yellow ",
+            "description": "Max graphic sunsets in Drive World.",
+            "author": "pat_3",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/pat_3/ansel-presets.zip"
+        },
+        {
+            "title": "Tiktok Editing Shaders",
+            "description": "TTD3 Shaders: Viral & Explore!",
+            "author": "ScarletBenj",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/ScarletBenj/ansel-presets.zip"
+        },
+        {
+            "title": "Parkour reborn shaders",
+            "description": "Glossy with a bit of color and bloom.",
+            "author": "Madskizi",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Madskizi/ansel-presets.zip"
+        },
+        {
+            "title": "BloxRT",
+            "description": "BloxRT combines realism with looks.",
+            "author": "Mati",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Mati/ansel-presets.zip"
+        },
+        {
+            "title": "Marko's Ray Tracing / Photorealism Shaders",
+            "description": "Eye candy: Graphics on fire!",
+            "author": "TurboBoost911",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/TurboBoost911/ansel-presets.zip"
+        },
+        {
+            "title": "RoShine",
+            "description": "RT shaders.",
+            "author": "alexplays",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/alexplays/ansel-presets.zip"
+        },
+        {
             "title": "Influencer Preset",
             "description": "Make it look like the big stars.",
             "author": "Zamgion",
