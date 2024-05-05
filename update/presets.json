@@ -1,22 +1,16 @@
 {
     "presets": [
         {
+            "title": "Influencer Preset",
+            "description": "Make it look like the big stars.",
+            "author": "Zamgion",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Zamgion/ansel-presets.zip"
+        },
+        {
             "title": "Rodoom's Presets",
             "description": "Push your graphics to the limit!",
             "author": "Rodoom",
             "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Rodoom/ansel-presets.zip"
-        },
-        {
-            "title": "RobloxTX",
-            "description": "Ray tracing with quality and performance.",
-            "author": "Ax",
-            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Ax/ansel-presets-0.zip"
-        },
-        {
-            "title": "Ax's Extra Presets",
-            "description": "Presets galore! (TikTok, Oldskool).",
-            "author": "Ax",
-            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Ax/ansel-presets.zip"
         },
         {
             "title": "Blocky Company",
@@ -29,6 +23,18 @@
             "description": "Subtly shine, darkens theme for depth.",
             "author": "Kelly_lovescatss",
             "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Kelly_lovescatss/ansel-presets.zip"
+        },
+        {
+            "title": "RobloxTX",
+            "description": "Ray tracing with quality and performance.",
+            "author": "Ax",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Ax/ansel-presets-0.zip"
+        },
+        {
+            "title": "Ax's Extra Presets",
+            "description": "Presets galore! (TikTok, Oldskool).",
+            "author": "Ax",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Ax/ansel-presets.zip"
         }
     ]
 }
