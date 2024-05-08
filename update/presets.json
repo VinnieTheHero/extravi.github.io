@@ -1,6 +1,18 @@
 {
     "presets": [
         {
+            "title": "qzx 9820",
+            "description": "Rodoom and qzx shaders remade.",
+            "author": "qzx9820",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/qzx9820/42133800546.zip"
+        },
+        {
+            "title": "Crimson's PhotoRealisim Shaders",
+            "description": "Max Graphics!",
+            "author": "Crimson",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Crimson/47308154282.zip"
+        },
+        {
             "title": "Ziplipp's Colorful World",
             "description": "Glossy fun! A world of color!",
             "author": "ryememorize",
