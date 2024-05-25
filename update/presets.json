@@ -1,6 +1,24 @@
 {
     "presets": [
         {
+            "title": "Lunar Realism",
+            "description": "Good for realistic games.",
+            "author": "TheLunar",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/TheLunar/170272820.zip"
+        },
+        {
+            "title": "Nstemi's Enhance",
+            "description": "Realistic enhancement.",
+            "author": "Nstemi",
+            "source": "https://github.com/Extravi/ansel-presets/blob/main/presets/Nstemi/462078817.zip"
+        },
+        {
+            "title": "FPS Frendly Shader",
+            "description": "FPS Frendly.",
+            "author": "Vxamps",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Vxamps/1797412998.zip"
+        },
+        {
             "title": "qzx 9820",
             "description": "Rodoom and qzx shaders remade.",
             "author": "qzx9820",
@@ -95,6 +113,12 @@
             "description": "Presets galore! (TikTok, Oldskool).",
             "author": "Ax",
             "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Ax/ansel-presets.zip"
+        },
+        {
+            "title": "Socks",
+            "description": "The perfect pair.",
+            "author": "Ax",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Ax/254569684.zip"
         }
     ]
 }
