@@ -1,6 +1,12 @@
 {
     "presets": [
         {
+            "title": "Bloxshade legacy",
+            "description": "Legacy presets.",
+            "author": "Bloxshade",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Bloxshade/ansel-presets.zip"
+        },
+        {
             "title": "Lunar Realism",
             "description": "Good for realistic games.",
             "author": "TheLunar",
