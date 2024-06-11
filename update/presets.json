@@ -1,6 +1,12 @@
 {
     "presets": [
         {
+            "title": "Bloxshade bloomy ⭐",
+            "description": "Bloomy presets.",
+            "author": "Bloxshade",
+            "source": "https://github.com/Extravi/extravi.github.io/raw/main/update/bloxshade-bloomy.zip"
+        },
+        {
             "title": "Bloxshade legacy ⭐",
             "description": "Legacy presets.",
             "author": "Bloxshade",
