@@ -1,6 +1,54 @@
 {
     "presets": [
         {
+            "title": "BloxPR ⭐",
+            "description": "PhotoRealism version of BloxRT.",
+            "author": "Mati",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Mati/bloxpr-presets.zip"
+        },
+        {
+            "title": "Rapid Minimal V1",
+            "description": "Just for all of your fast paced games.",
+            "author": "Pkp10738",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Pkp10738/328945748.zip"
+        },
+        {
+            "title": "So Sigma Shaders",
+            "description": "sometimes for tiktok editing.",
+            "author": "Duck",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Duck/345347822.zip"
+        },
+        {
+            "title": "Azphrinx's Realism Shaders",
+            "description": "Ultra-Realistic: Lighting & Color.",
+            "author": "Azphrinx",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Azphrinx/4378597525.zip"
+        },
+        {
+            "title": "TVARetroV3",
+            "description": "To make Roblox look found footage-like.",
+            "author": "TVA",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/TVA/34723472974.zip"
+        },
+        {
+            "title": "Scalf's ER:LC Configuration V1.0",
+            "description": "ER:LC: Simple & Stunning Shaders.",
+            "author": "scalfss",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/scalfss/4857325785.zip"
+        },
+        {
+            "title": "SubtleRT V3",
+            "description": "Roblox Reimagined: Vanilla Shaders.",
+            "author": "Science6uru",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/Science6uru/842308432345.zip"
+        },
+        {
+            "title": "Corty’s RTX ⭐",
+            "description": "A large variety of customizations in presets.",
+            "author": "caracalofrequiem",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/caracalofrequiem/34478238947.zip"
+        },
+        {
             "title": "Bloxshade Ultra Dark ⭐",
             "description": "Darker version of Bloxshade Ultra.",
             "author": "Bloxshade",
