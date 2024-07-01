@@ -1,6 +1,30 @@
 {
     "presets": [
         {
+            "title": "Kiwi's RTX Graphics Preset",
+            "description": "Level Up Your Game Graphics.",
+            "author": "kjwl",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/kjwl/247792373234.zip"
+        },
+        {
+            "title": "LunarGraphicsV4",
+            "description": "This preset focuses on improving lighting.",
+            "author": "TheLunar",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/TheLunar/4238472423.zip"
+        },
+        {
+            "title": "princxssofhyrule's heavenly rays preset ⭐",
+            "description": "perfect for royale high + astro !",
+            "author": "princxssofhyrule",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/princxssofhyrule/23429842342.zip"
+        },
+        {
+            "title": "Bluecoolman's preset V9",
+            "description": "CRTs? Bloomy shaders? You got it.",
+            "author": "bluecoolman280",
+            "source": "https://github.com/Extravi/ansel-presets/raw/main/presets/bluecoolman280/16482749.zip"
+        },
+        {
             "title": "BloxPR ⭐",
             "description": "PhotoRealism version of BloxRT.",
             "author": "Mati",
