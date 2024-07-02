@@ -1,6 +1,12 @@
 {
     "presets": [
         {
+            "title": "Socks V2",
+            "description": "The perfect pair.",
+            "author": "Ax",
+            "source": "https://github.com/Extravi/ansel-presets/blob/main/presets/Ax/3489585829.zip"
+        },
+        {
             "title": "Kiwi's RTX Graphics Preset",
             "description": "Level Up Your Game Graphics.",
             "author": "kjwl",
